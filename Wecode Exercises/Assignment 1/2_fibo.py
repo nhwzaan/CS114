@@ -1,10 +1,13 @@
-n = int(input())
+def fibonanci(n):
+    if n==1 or n==2:
+        return 1
+    return fibonanci(n-1) + fibonanci(n-2)
 
-def sumOfDivisor():
-    sum = 0
-    for i in range(1, n):
-        if n%i==0:
-            sum+=i
-    return sum
+x = int(input())
 
-print(sumOfDivisor())
+if x<1:
+    print("So ", x, " khong nam trong khoang [1,30].")
+elif x>30:
+    print("So ", x, " khong nam trong khoang [1,30].")
+else:
+    print(fibonanci(x))
