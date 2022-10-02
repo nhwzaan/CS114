@@ -15,3 +15,13 @@
 * [Chủ đề báo cáo](#chủ-đề-báo-cáo)
 * [Thư mục bài tập](#thư-mục-bài-tập-tuần)
 <!--* [Tổng kết môn học](https://github.com/.../CS112.L21/blob/main/SummaryReport)-->
+
+
+## GIỚI THIỆU MÔN HỌC
+* **Tên môn học:** MÁY HỌC
+* **Mã môn học:** CS114
+* **Mã lớp:** CS114.N11.KHCL
+* **Năm học:** HK1 (2022 - 2023)
+* **Giảng viên:** PGS. Lê Đình Duy - *duyld@uit.edu.vn*
+*                 ThS. Phạm Nguyễn Trường An - *anpnt@uit.edu.vn*
+
