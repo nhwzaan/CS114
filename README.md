@@ -26,6 +26,7 @@
 * 1. PGS. Lê Đình Duy - *duyld@uit.edu.vn*
 * 2. ThS. Phạm Nguyễn Trường An - *anpnt@uit.edu.vn*
 
+## GIỚI THIỆU NHÓM
 | STT | Họ tên | MSSV | Vai trò | Email | Github | Facebook |
 | :---: | --- | --- | --- | --- | --- | --- |
 | 1 | Nguyễn Thị Như Vân | 20520855 | Nhóm trưởng | 20520855@gm.uit.edu.vn | [nhwzaan](https://github.com/nhwzaam) | [vanntn](https://www.facebook.com/xxnhwzaan/) |
