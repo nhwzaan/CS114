@@ -29,6 +29,6 @@
 ## GIỚI THIỆU NHÓM
 | STT | Họ tên | MSSV | Vai trò | Email | Github | Facebook |
 | :---: | --- | --- | --- | --- | --- | --- |
-| 1 | Phạm Bùi Nhật Huy | 20521410 | Nhóm trưởng | 20521410@gm.uit.edu.vn | [mysteryrune](https://github.com/MysteryRune) | [huypbn](https://www.facebook.com/huy.phambuinhat/) |
-| 2 | Nguyễn Thị Như Vân | 20520855 | Thành viên | 20520855@gm.uit.edu.vn | [nhwzaan](https://github.com/nhwzaam) | [vanntn](https://www.facebook.com/xxnhwzaan/) |
+| 1 | Nguyễn Thị Như Vân | 20520855 | Nhóm trưởng | 20520855@gm.uit.edu.vn | [nhwzaan](https://github.com/nhwzaam) | [vanntn](https://www.facebook.com/xxnhwzaan/) |
+| 2 | Phạm Bùi Nhật Huy | 20521410 | Thành viên | 20521410@gm.uit.edu.vn | [mysteryrune](https://github.com/MysteryRune) | [huypbn](https://www.facebook.com/huy.phambuinhat/) |
 | 3 | Nguyễn Văn Hoàng | 20521346 | Thành viên | 20521346@gm.uit.edu.vn | [Hoangcurly1305](https://github.com/Hoangcurly1305) | [hoangnv](https://www.facebook.com/curly.uit) |
