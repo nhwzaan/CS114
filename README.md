@@ -38,3 +38,4 @@
 [2. Google Classroom]
 
 ## ĐỒ ÁN MÔN HỌC
+* **Chủ đề:** Image Caption Generator - Sinh mô tả cho ảnh
