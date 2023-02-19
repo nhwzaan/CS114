@@ -41,4 +41,8 @@
 ## ĐỒ ÁN MÔN HỌC
 * **Chủ đề:** Image Caption Generator - Sinh mô tả cho ảnh
 * **Tóm tắt đồ án**:
+  - Input: một bức ảnh bất kì
+  - Output: một dòng chú thích (caption) mô tả nội dung của bức ảnh đầu vào
+  - Metrics: BLEU score
+  - Dataset: [flickr_8k](https://www.kaggle.com/datasets/adityajn105/flickr8k)
 
