@@ -47,4 +47,4 @@
   - Dataset: [flickr_8k](https://www.kaggle.com/datasets/adityajn105/flickr8k)
   
   ![](https://github.com/nhwzaan/CS114/blob/main/images%20and%20materials/input-output.png)
-
+* **Chi tiết đồ án:** code, trained model, report [ở đây](https://github.com/nhwzaan/CS114/tree/main/Final%20Project)
