@@ -48,3 +48,4 @@
   
   ![](https://github.com/nhwzaan/CS114/blob/main/images%20and%20materials/input-output.png)
 * **Chi tiết đồ án:** code, trained model, report [ở đây](https://github.com/nhwzaan/CS114/tree/main/Final%20Project)
+**Friendly remind:** tui ngồi viết readme đồ án kì công lắm á nên nhớ đọc nha (✿◡‿◡)
