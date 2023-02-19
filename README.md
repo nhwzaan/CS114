@@ -12,8 +12,8 @@
 ## BẢNG MỤC LỤC
 * [Giới thiệu môn học](#giới-thiệu-môn-học)
 * [Giới thiệu nhóm](#giới-thiệu-nhóm)
-* [Chủ đề báo cáo](#chủ-đề-báo-cáo)
 * [Thư mục bài tập](#thư-mục-bài-tập-tuần)
+* [Đồ án môn học](#đồ-án-môn-học)
 <!--* [Tổng kết môn học](https://github.com/.../CS112.L21/blob/main/SummaryReport)-->
 
 
@@ -32,3 +32,9 @@
 | 1 | Nguyễn Thị Như Vân | 20520855 | Nhóm trưởng | 20520855@gm.uit.edu.vn | [nhwzaan](https://github.com/nhwzaam) | [vanntn](https://www.facebook.com/xxnhwzaan/) |
 | 2 | Phạm Bùi Nhật Huy | 20521410 | Thành viên | 20521410@gm.uit.edu.vn | [mysteryrune](https://github.com/MysteryRune) | [huypbn](https://www.facebook.com/huy.phambuinhat/) |
 | 3 | Nguyễn Văn Hoàng | 20521346 | Thành viên | 20521346@gm.uit.edu.vn | [Hoangcurly1305](https://github.com/Hoangcurly1305) | [hoangnv](https://www.facebook.com/curly.uit) |
+
+## THƯ MỤC BÀI TẬP
+[1. WeCode]
+[2. Google Classroom]
+
+## ĐỒ ÁN MÔN HỌC
