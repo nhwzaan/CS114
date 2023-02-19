@@ -34,9 +34,11 @@
 | 3 | Nguyễn Văn Hoàng | 20521346 | Thành viên | 20521346@gm.uit.edu.vn | [Hoangcurly1305](https://github.com/Hoangcurly1305) | [hoangnv](https://www.facebook.com/curly.uit) |
 
 ## THƯ MỤC BÀI TẬP
-[1. WeCode]
+[1. WeCode](https://github.com/nhwzaan/CS114/tree/main/Wecode%20Exercises)
 
 [2. Google Classroom](https://github.com/nhwzaan/CS114/tree/main/Google%20Classroom%20Exercises)
 
 ## ĐỒ ÁN MÔN HỌC
 * **Chủ đề:** Image Caption Generator - Sinh mô tả cho ảnh
+* **Tóm tắt đồ án**:
+
