@@ -18,7 +18,7 @@
 
 
 ## GIỚI THIỆU MÔN HỌC
-* **Tên môn học:** MÁY HỌC
+* **Tên môn học:** MÁY HỌC - MACHINE LEARNING
 * **Mã môn học:** CS114
 * **Mã lớp:** CS114.N11.KHCL
 * **Năm học:** HK1 (2022 - 2023)
