@@ -47,6 +47,12 @@
   - Dataset: [flickr_8k](https://www.kaggle.com/datasets/adityajn105/flickr8k)
   
   ![](https://github.com/nhwzaan/CS114/blob/main/images%20and%20materials/input-output.png)
+
+ * **Ứng dụng:**
+  - Sinh mô tả cho ảnh: số lượng ảnh đang càng ngày càng khổng lồ và việc gán nhãn thủ công sẽ rất tiêu tốn.
+  - Các ứng dụng trong việc hỗ trợ người khiếm thị (ảnh -> text -> voice)
+  - Tìm kiếm hình ảnh Google Image: công cụ tìm kiếm hình ảnh Google Image hỗ trợ tìm ảnh theo caption của ảnh được yêu cầu tìm kiếm
+
 * **Chi tiết đồ án:** code, trained model, report [ở đây](https://github.com/nhwzaan/CS114/tree/main/Final%20Project)
 
 ***Friendly remind:*** tui ngồi viết readme đồ án kì công lắm á nên nhớ đọc nha (✿◡‿◡)
