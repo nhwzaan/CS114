@@ -94,6 +94,7 @@ Bên cạnh đó, CIDEr (Consensus-based Image Description Evaluation) là một
   - ROUGE: Đánh giá thông qua matching các overlap_word giữa 2 đoạn văn bản. Đảm bảo thứ tự của các từ khi xét so với BLEU-score và METEOR nhưng vẫn chưa giải quyết được vấn đề trôi chảy và mạch lạc của câu văn.
 
 **7. Kết quả đánh giá:**
+
 Xét trên cùng một tập dataset:
 
   - Kết quả cao nhất của bài toán trên Kaggle là: BLEU-1 : 0.53 , BLEU-2 : 0.31
