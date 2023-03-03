@@ -39,8 +39,10 @@
 [2. Google Classroom](https://github.com/nhwzaan/CS114/tree/main/Google%20Classroom%20Exercises)
 
 ## ĐỒ ÁN MÔN HỌC
-* **Chủ đề:** Image Caption Generator - Sinh mô tả cho ảnh
+* **Chủ đề:** **IMAGE CAPTION GENERATOR - SINH MÔ TẢ CHO ẢNH**
+
 **1.   Vấn đề đồ án đặt ra:**
+
 Image Caption Generator tập trung vào việc tạo ra mô tả văn bản cho các hình ảnh, giúp cho việc hiểu nội dung của hình ảnh trở nên dễ dàng hơn và thuận tiện hơn cho con người. Để làm được điều này, Image Caption Generator sử dụng các mô hình học sâu để phân tích và học các đặc trưng của hình ảnh, sau đó sử dụng các mô hình ngôn ngữ để tạo ra mô tả văn bản cho hình ảnh đó.
 
 **2.   Ứng dụng:**
