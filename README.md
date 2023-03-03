@@ -87,7 +87,7 @@ CNN được sử dụng để trích xuất đặc trưng của ảnh, trong kh
 
 Trong đồ án lần này, nhóm xin được giới thiệu một độ đo để đánh giá cho bài toán này, đó là BLEU score. BLEU score (viết tắt của Bilingual Evaluation Understudy), được giới thiệu lần đầu trong bài báo khoa học [‘BLEU: a Method for Automatic Evaluation of Machine Translation’](https://aclanthology.org/P02-1040.pdf). BLEU được thiết kế để sử dụng trong dịch máy (Machine Translation), đồng thời, phép đo này cũng được sử dụng trong các nhiệm vụ như tóm tắt văn bản, nhận dạng giọng nói, sinh nhãn ảnh (image captioning). BLEU đánh giá một câu thông qua so khớp giữa câu đó và câu mẫu. Điểm được cho nằm trong khoảng 0 (sai hoàn toàn) đến 1 (khớp hoàn toàn). Cách tính của BLEU là đếm số n-gram khớp nhau giữa câu mẫu (R) và câu được đánh giá (C) sau đó chia cho số token của C. Việc chọn n phụ thuộc vào ngôn ngữ, nhiệm vụ và mục tiêu cụ thể..
 
-Bên cạnh đó, CIDEr (Consensus-based Image Description Evaluation) là một độ đo đánh giá chất lượng mô tả hình ảnh. Nó được đề xuất trong bài báo "CIDEr: Consensus-based Image Description Evaluation" (Vedantam et al., 2015). CIDEr tính điểm bằng cách so sánh các câu mô tả được tạo bởi mô hình với các câu mô tả thực tế được đánh giá bởi con người.
+Bên cạnh đó, CIDEr (Consensus-based Image Description Evaluation) là một độ đo đánh giá chất lượng mô tả hình ảnh. Nó được đề xuất trong bài báo ['CIDEr: Consensus-based Image Description Evaluation'](https://arxiv.org/abs/1411.5726) (Vedantam et al., 2015). CIDEr tính điểm bằng cách so sánh các câu mô tả được tạo bởi mô hình với các câu mô tả thực tế được đánh giá bởi con người.
 
 *Một số độ đo khác mà nhóm có tìm hiểu:*
   - METEOR: Đánh giá thông qua matching các Uni-gram và cho ra Unigram precision, Uni-gram recall,…  Đánh giá đơn giản nhưng không đảm bảo về mặt ý nghĩa và trôi chảy của câu văn.
@@ -100,5 +100,5 @@ Xét trên cùng một tập dataset:
   - Kết quả cao nhất của bài toán trên Kaggle là: BLEU-1 : 0.53 , BLEU-2 : 0.31
   - Kết quả cao nhất của nhóm đạt được là : BLEU-1 : 0.56, BLEU-2 : 0.33
   
-***Chi tiết đồ án:*** code, trained model, report [ở đây](https://github.com/nhwzaan/CS114/tree/main/Final%20Project)
+***Chi tiết đồ án:*** code, trained model, report [tại đây](https://github.com/nhwzaan/CS114/tree/main/Final%20Project)
 
