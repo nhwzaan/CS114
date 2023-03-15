@@ -73,7 +73,6 @@ Bộ dữ liệu [Flickr_8k](https://www.kaggle.com/datasets/adityajn105/flickr8
 
 **5.   Mô hình máy học:**
 
-Nhóm chúng em sử dụng (CNN) để trích xuất tính năng hình ảnh và (LSTM) để xử lý ngôn ngữ tự nhiên (NLP).
 CNN được sử dụng để trích xuất đặc trưng của ảnh, trong khi RNN được sử dụng để sử lý chuỗi (trong đồ án này chúng em sử dụng LSTM).
 * ***Model creation:***
   
