@@ -73,7 +73,7 @@ Bộ dữ liệu [Flickr_8k](https://www.kaggle.com/datasets/adityajn105/flickr8
 
 **5.   Mô hình máy học:**
 
-CNN được sử dụng để trích xuất đặc trưng của ảnh, trong khi RNN được sử dụng để sử lý chuỗi (trong đồ án này chúng em sử dụng VGG16 và LSTM).
+CNN được sử dụng để trích xuất đặc trưng của ảnh, trong khi RNN được sử dụng để xử lý chuỗi (trong đồ án này chúng em sử dụng VGG16 và LSTM).
 * ***Model creation:***
   
 ![](https://github.com/nhwzaan/CS114/blob/main/images%20and%20materials/model_creation.png)
