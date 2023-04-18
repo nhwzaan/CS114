@@ -12,9 +12,8 @@
 ## BẢNG MỤC LỤC
 * [Giới thiệu môn học](#giới-thiệu-môn-học)
 * [Giới thiệu nhóm](#giới-thiệu-nhóm)
-* [Thư mục bài tập](#thư-mục-bài-tập-tuần)
+* [Thư mục bài tập](#thư-mục-bài-tập)
 * [Đồ án môn học](#đồ-án-môn-học)
-<!--* [Tổng kết môn học](https://github.com/.../CS112.L21/blob/main/SummaryReport)-->
 
 
 ## GIỚI THIỆU MÔN HỌC
@@ -37,6 +36,8 @@
 [1. WeCode](https://github.com/nhwzaan/CS114/tree/main/Wecode%20Exercises)
 
 [2. Google Classroom](https://github.com/nhwzaan/CS114/tree/main/Google%20Classroom%20Exercises)
+
+[3. Dataset](https://github.com/nhwzaan/CS114/tree/main/dataset)
 
 ## ĐỒ ÁN MÔN HỌC
 * **Chủ đề:** **IMAGE CAPTION GENERATOR - SINH MÔ TẢ CHO ẢNH**
